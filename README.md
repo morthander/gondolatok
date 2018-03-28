@@ -1,0 +1,2 @@
+# gondolatok
+Felmerülő gondolatok tárháza
